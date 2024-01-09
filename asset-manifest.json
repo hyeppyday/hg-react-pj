@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hg-react-pj/static/css/main.83deab15.css",
-    "main.js": "/hg-react-pj/static/js/main.2d32a448.js",
+    "main.css": "/hg-react-pj/static/css/main.efbb225b.css",
+    "main.js": "/hg-react-pj/static/js/main.ac0485d6.js",
     "static/media/NotoSansKR-Regular.woff": "/hg-react-pj/static/media/NotoSansKR-Regular.e58951a55515bdafa5d9.woff",
     "static/media/GowunDodum-Regular.woff": "/hg-react-pj/static/media/GowunDodum-Regular.6dfd674c7411dcb51e62.woff",
     "static/media/NanumMyeongjo-Regular.woff": "/hg-react-pj/static/media/NanumMyeongjo-Regular.14b0b204c3556609de07.woff",
@@ -9,11 +9,11 @@
     "static/media/mv_btns.png": "/hg-react-pj/static/media/mv_btns.1eef2593b6cbc9dcfce2.png",
     "static/media/NotoSerifKR-Regular.woff": "/hg-react-pj/static/media/NotoSerifKR-Regular.74e4bc82d547e96ab8f4.woff",
     "index.html": "/hg-react-pj/index.html",
-    "main.83deab15.css.map": "/hg-react-pj/static/css/main.83deab15.css.map",
-    "main.2d32a448.js.map": "/hg-react-pj/static/js/main.2d32a448.js.map"
+    "main.efbb225b.css.map": "/hg-react-pj/static/css/main.efbb225b.css.map",
+    "main.ac0485d6.js.map": "/hg-react-pj/static/js/main.ac0485d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.83deab15.css",
-    "static/js/main.2d32a448.js"
+    "static/css/main.efbb225b.css",
+    "static/js/main.ac0485d6.js"
   ]
 }
